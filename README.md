@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pamila0606
 - 👀 I’m interested in ...em aprender programação
-- 🌱 I’m currently learning ... aprendendo sobre programação 
+- 🌱 I’m currently learning ... sobre programação 
 - 💞️ I’m looking to collaborate on ...em meu crescimento profissional
 - 📫 How to reach me ...pamila.rodrigues@escola.pr.gov.br
 
